@@ -3,5 +3,7 @@
     <pages>
         <page name='Table of contents'/>
         <page name='老张'/>
+        <page name='老张2'/>
+        <page name='老张3'/>
     </pages>
 </playground>
